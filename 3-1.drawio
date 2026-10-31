@@ -40,7 +40,7 @@
         <mxCell id="d1qBtoGF22IdrEtWamA9-43" edge="1" parent="1" source="d1qBtoGF22IdrEtWamA9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="d1qBtoGF22IdrEtWamA9-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d1qBtoGF22IdrEtWamA9-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;任务编排&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;选择路径 · 组织步骤&lt;/div&gt;&lt;/div&gt;&lt;div&gt;保持条件 · 调整任务&lt;/div&gt;" vertex="1">
+        <mxCell id="d1qBtoGF22IdrEtWamA9-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;任务编排&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;选择路径 · 组织步骤&lt;/div&gt;&lt;/div&gt;&lt;div&gt;保持条件 · 调整任务&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="280" y="240" as="geometry" />
         </mxCell>
         <mxCell id="d1qBtoGF22IdrEtWamA9-48" edge="1" parent="1" source="d1qBtoGF22IdrEtWamA9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.768;entryY=0.025;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="d1qBtoGF22IdrEtWamA9-19">
